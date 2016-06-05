@@ -1,4 +1,4 @@
--- Barrel Shifter Homework #3
+-- Barrel Shifter 
 library IEEE;
 use IEEE.STD_logic_1164.all;
 use IEEE.numeric_std.all;
